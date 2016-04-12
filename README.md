@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-* [Numbered list with code elements](#Numbered list with code elements)
-* [Test for TOC](#Test for TOC)
+* [Numbered list with code elements](#numbered-list-with-code-elements)
+* [Test for TOC](#test-fortoc)
 
 ## Numbered list with code elements
 
