@@ -29,3 +29,5 @@ Here are some examples:
 ...
 
 ## <a name="test_for_anchors"/>Test with anchors
+
+# Quick Start Guide (Howto setup a developer VM)
