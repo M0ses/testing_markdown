@@ -1,5 +1,10 @@
 # Some Tests for MarkDown Syntax
 
+## Table of Contents
+
+* [Numbered list with code elements](#Numbered list with code elements)
+* [Test for TOC](#Test for TOC)
+
 ## Numbered list with code elements
 
 Here are some examples:
@@ -17,3 +22,5 @@ Here are some examples:
 
 3. My Third Point
 4. **bold text**
+
+## Test for TOC
