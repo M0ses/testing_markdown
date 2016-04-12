@@ -3,7 +3,7 @@
 ## Table of Contents
 
 * [Numbered list with code elements](#numbered-list-with-code-elements)
-* [Test for TOC](#test-fortoc)
+* [Test for TOC](#test-for-toc)
 
 ## Numbered list with code elements
 
