@@ -28,4 +28,4 @@ Here are some examples:
 
 ...
 
-### <a name="test_for_anchors"/>Test with anchors
+## <a name="test_for_anchors"/>Test with anchors
